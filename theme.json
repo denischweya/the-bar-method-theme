@@ -30,24 +30,24 @@
 		"color": {
 			"palette": [
 				{
-					"color": "#ffffff",
-					"name": "Base",
-					"slug": "base"
+					"name": "Coral",
+                    "slug": "coral",
+                    "color": "#F18079"
 				},
 				{
-					"color": "#000000",
-					"name": "Contrast",
-					"slug": "contrast"
+					"name": "Vintage Black",
+					"slug": "black",
+					"color": "#101921"
 				},
 				{
-					"color": "#9DFF20",
-					"name": "Primary",
-					"slug": "primary"
+					"name": "BALLET SLIPPER",
+                    "slug": "ballet-slipper",
+                    "color": "#EACBBB"
 				},
 				{
-					"color": "#345C00",
-					"name": "Secondary",
-					"slug": "secondary"
+					"name": "White",
+				    "slug": "white",
+				    "color": "#FFFFFF"
 				},
 				{
 					"color": "#F6F6F6",
