@@ -34,27 +34,27 @@
 			],
 			"palette": [
 				{
-					"color": "#FFFFFF",
-					"name": "Base",
-					"slug": "base"
+					"name": "Coral",
+                    "slug": "coral",
+                    "color": "#F18079"
 				},
 				{
-					"color": "#000000",
-					"name": "Contrast",
-					"slug": "contrast"
+					"name": "Vintage Black",
+					"slug": "black",
+					"color": "#101921"
 				},
 				{
-					"color": "#FFCCFF",
-					"name": "Primary",
-					"slug": "primary"
+					"name": "Ballet Slippers",
+                    "slug": "ballet-slipper",
+                    "color": "#EACBBB"
 				},
 				{
-					"color": "#FFFFCC",
-					"name": "Secondary",
-					"slug": "secondary"
+					"name": "White",
+				    "slug": "white",
+				    "color": "#FFFFFF"
 				},
 				{
-					"color": "#CCFFFF",
+					"color": "#F6F6F6",
 					"name": "Tertiary",
 					"slug": "tertiary"
 				}
